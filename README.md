@@ -1,6 +1,11 @@
-### Hi there 👋
+|![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=akasaki1211&hide=,issues,contribs&show_icons=true&theme=github_dark)|![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akasaki1211&layout=compact&theme=github_dark)|
+|---|---|
+
+
 
 <!--
+### Hi there 👋
+
 **akasaki1211/akasaki1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
