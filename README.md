@@ -1,4 +1,4 @@
-|![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=akasaki1211&hide=,issues,contribs&show_icons=true&theme=github_dark)|![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akasaki1211&layout=compact&theme=github_dark)|
+|![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=akasaki1211&hide=contribs&show_icons=true&theme=github_dark)|![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akasaki1211&layout=compact&theme=github_dark)|
 |---|---|
 
 
