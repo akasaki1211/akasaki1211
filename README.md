@@ -1,5 +1,5 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=akasaki1211&show_icons=true&theme=transparent) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akasaki1211&layout=donut&theme=transparent&hide=mathematica)
-
+<!--
 ![](https://img.shields.io/static/v1?message=Maya&color=0696D7&logo=Autodesk&logoColor=white&label=) ![](https://img.shields.io/static/v1?message=3dsMax&color=0696D7&logo=Autodesk&logoColor=white&label=) ![](https://img.shields.io/badge/-Unity-222222.svg?logo=unity&logoColor=FFFFFF)  
 I’m currently learning ... ![](https://img.shields.io/badge/-C%23-239120.svg?logo=csharp&style=plastic) ![](https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=plastic)  
 
